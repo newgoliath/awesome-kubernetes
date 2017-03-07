@@ -141,6 +141,7 @@ Installers
 * [Juju](https://jujucharms.com/canonical-kubernetes)
 * [Terraform](https://github.com/kz8s/tack)
 * [Supergiant](http://supergiant.io/)
+* [DigitalRebar](http://digital-rebar.readthedocs.io/en/latest/workloads/kubernetes/README.html)
 
 Main Resources
 =======================================================================
